@@ -1,0 +1,3 @@
+Klik build dulu (tunggu selesai) terus lalu upload
+
+Terus arahkan ke devicenya, dari device manager sebelumnya
